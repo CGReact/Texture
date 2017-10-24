@@ -4,6 +4,7 @@
 - [ASCollectionView] Improve index space translation of Flow Layout Delegate methods. [Scott Goodson](https://github.com/appleguy)
 - [Animated Image] Adds support for animated WebP as well as improves GIF handling. [#605](https://github.com/TextureGroup/Texture/pull/605) [Garrett Moon](https://github.com/garrettmoon)
 - [ASCollectionView] Check if batch fetching is needed if batch fetching parameter has been changed. [#624](https://github.com/TextureGroup/Texture/pull/624) [Garrett Moon](https://github.com/garrettmoon)
+- [Layout] Fixes a deadlock in layout. [#638](https://github.com/TextureGroup/Texture/pull/638) [Garrett Moon](https://github.com/garrettmoon)
 
 ## 2.6
 - [Xcode 9] Updated to require Xcode 9 (to fix warnings) [Garrett Moon](https://github.com/garrettmoon)
